@@ -25,7 +25,7 @@
     "jsonwebtoken": "^8.4.0",
     "lodash": "^4.17.11",
     "log4js": "^4.0.2",
-    "marked": "^0.6.0",
+    "marked": "^4.0.10",
     "moment": "^2.23.0",
     "mongolass": "^4.4.2",
     "mongoose": "^5.4.14",
